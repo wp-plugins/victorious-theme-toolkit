@@ -1,0 +1,1758 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Victorious Toolkit v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-07-28 08:01:20+0000\n"
+"Last-Translator: du0ngtjendat <mrduong.92@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/ajax.php:14
+#@ victor-toolkit
+msgid "Search..."
+msgstr ""
+
+#: includes/fields/metabox/gallery.php:19
+#@ victor-toolkit
+msgid "Config"
+msgstr ""
+
+#: includes/fields/metabox/icon.php:11
+#@ victor-toolkit
+msgid "Select Icon"
+msgstr ""
+
+#: includes/fields/widget/icon.php:13
+#: includes/fields/widget/link-icon.php:17
+#@ victor-toolkit
+msgid "select icon"
+msgstr ""
+
+#: includes/fields/widget/link-icon.php:33
+#@ victor-toolkit
+msgid "Link text"
+msgstr ""
+
+#: includes/fields/widget/link-icon.php:42
+#@ victor-toolkit
+msgid "Link URL"
+msgstr ""
+
+#: includes/post-types/portfolio.php:18
+#@ victor-toolkit
+msgid "Portfolio 1"
+msgstr ""
+
+#: includes/post-types/portfolio.php:25
+#: includes/post-types/portfolio.php:27
+#@ victor-toolkit
+msgid "Portfolios"
+msgstr ""
+
+#: includes/layout/portfolio.php:14
+#: includes/layout/portfolio.php:29
+#: includes/post-types/portfolio.php:26
+#@ victor-toolkit
+msgid "Portfolio"
+msgstr ""
+
+#: includes/post-types/portfolio.php:28
+#@ victor-toolkit
+msgid "Add Portfolio"
+msgstr ""
+
+#: includes/post-types/portfolio.php:29
+#@ victor-toolkit
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/post-types/portfolio.php:30
+#: includes/post-types/services.php:20
+#: includes/post-types/staff.php:20
+#: includes/post-types/testimonials.php:21
+#@ victor-toolkit
+msgid "Edit"
+msgstr ""
+
+#: includes/post-types/portfolio.php:31
+#@ victor-toolkit
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/post-types/portfolio.php:32
+#@ victor-toolkit
+msgid "New Portfolio"
+msgstr ""
+
+#: includes/post-types/portfolio.php:33
+#: includes/post-types/portfolio.php:34
+#@ victor-toolkit
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/post-types/portfolio.php:35
+#@ victor-toolkit
+msgid "Search Portfolios"
+msgstr ""
+
+#: includes/post-types/portfolio.php:36
+#@ victor-toolkit
+msgid "No Portfolios Found"
+msgstr ""
+
+#: includes/post-types/portfolio.php:37
+#@ victor-toolkit
+msgid "No Portfolios Found in Trash"
+msgstr ""
+
+#: includes/post-types/portfolio.php:38
+#@ victor-toolkit
+msgid "Parent Portfolio"
+msgstr ""
+
+#: includes/post-types/portfolio.php:59
+#@ victor-toolkit
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/post-types/portfolio.php:60
+#@ victor-toolkit
+msgid "Portfolio Tag"
+msgstr ""
+
+#: includes/post-types/portfolio.php:61
+#: includes/post-types/services.php:52
+#: includes/post-types/staff.php:51
+#: includes/post-types/testimonials.php:52
+#@ victor-toolkit
+msgid "Search Tags"
+msgstr ""
+
+#: includes/post-types/portfolio.php:62
+#: includes/post-types/services.php:53
+#: includes/post-types/staff.php:52
+#: includes/post-types/testimonials.php:53
+#@ victor-toolkit
+msgid "Popular Tags"
+msgstr ""
+
+#: includes/post-types/portfolio.php:63
+#: includes/post-types/services.php:54
+#: includes/post-types/staff.php:53
+#: includes/post-types/testimonials.php:54
+#@ victor-toolkit
+msgid "All Tags"
+msgstr ""
+
+#: includes/post-types/portfolio.php:66
+#: includes/post-types/services.php:57
+#: includes/post-types/staff.php:56
+#: includes/post-types/testimonials.php:57
+#@ victor-toolkit
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/post-types/portfolio.php:67
+#: includes/post-types/services.php:58
+#: includes/post-types/staff.php:57
+#: includes/post-types/testimonials.php:58
+#@ victor-toolkit
+msgid "Update Tag"
+msgstr ""
+
+#: includes/post-types/portfolio.php:68
+#: includes/post-types/services.php:59
+#: includes/post-types/staff.php:58
+#: includes/post-types/testimonials.php:59
+#@ victor-toolkit
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/post-types/portfolio.php:69
+#: includes/post-types/services.php:60
+#: includes/post-types/staff.php:59
+#: includes/post-types/testimonials.php:60
+#@ victor-toolkit
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/post-types/portfolio.php:70
+#: includes/post-types/services.php:61
+#: includes/post-types/staff.php:60
+#: includes/post-types/testimonials.php:61
+#@ victor-toolkit
+msgid "Separate tags with commas"
+msgstr ""
+
+#: includes/post-types/portfolio.php:71
+#: includes/post-types/services.php:62
+#: includes/post-types/staff.php:61
+#: includes/post-types/testimonials.php:62
+#@ victor-toolkit
+msgid "Add or remove tags"
+msgstr ""
+
+#: includes/post-types/portfolio.php:72
+#: includes/post-types/services.php:63
+#: includes/post-types/staff.php:62
+#: includes/post-types/testimonials.php:63
+#@ victor-toolkit
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: includes/post-types/portfolio.php:86
+#@ victor-toolkit
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/post-types/portfolio.php:87
+#@ victor-toolkit
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/post-types/portfolio.php:88
+#: includes/post-types/services.php:80
+#: includes/post-types/staff.php:78
+#: includes/post-types/testimonials.php:80
+#@ victor-toolkit
+msgid "Search Categories"
+msgstr ""
+
+#: includes/post-types/portfolio.php:90
+#: includes/post-types/services.php:82
+#: includes/post-types/staff.php:80
+#: includes/post-types/testimonials.php:82
+#@ victor-toolkit
+msgid "All Categories"
+msgstr ""
+
+#: includes/post-types/portfolio.php:91
+#: includes/post-types/services.php:83
+#: includes/post-types/staff.php:81
+#: includes/post-types/testimonials.php:83
+#@ victor-toolkit
+msgid "Parent Category"
+msgstr ""
+
+#: includes/post-types/portfolio.php:92
+#: includes/post-types/services.php:84
+#: includes/post-types/staff.php:82
+#: includes/post-types/testimonials.php:84
+#@ victor-resolution-toolkit
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/post-types/portfolio.php:93
+#: includes/post-types/services.php:85
+#: includes/post-types/staff.php:83
+#: includes/post-types/testimonials.php:85
+#@ victor-toolkit
+msgid "Edit Category"
+msgstr ""
+
+#: includes/post-types/portfolio.php:94
+#: includes/post-types/services.php:86
+#: includes/post-types/staff.php:84
+#: includes/post-types/testimonials.php:86
+#@ victor-toolkit
+msgid "Update Category"
+msgstr ""
+
+#: includes/post-types/portfolio.php:95
+#: includes/post-types/services.php:87
+#: includes/post-types/staff.php:85
+#: includes/post-types/testimonials.php:87
+#@ victor-toolkit
+msgid "Add New Category"
+msgstr ""
+
+#: includes/post-types/portfolio.php:96
+#: includes/post-types/services.php:88
+#: includes/post-types/staff.php:86
+#: includes/post-types/testimonials.php:88
+#@ victor-toolkit
+msgid "New Category Name"
+msgstr ""
+
+#: includes/post-types/portfolio.php:116
+#: includes/post-types/staff.php:147
+#: includes/post-types/testimonials.php:131
+#@ victor-toolkit
+msgid "Thumb"
+msgstr ""
+
+#: includes/post-types/portfolio.php:117
+#: includes/post-types/services.php:152
+#: includes/post-types/testimonials.php:132
+#: includes/widgets/victor-about.php:27
+#: includes/widgets/victor-contact-form.php:22
+#: includes/widgets/victor-contact-info.php:22
+#: includes/widgets/victor-feedburner.php:21
+#: includes/widgets/victor-intro.php:29
+#: includes/widgets/victor-languages.php:23
+#: includes/widgets/victor-mailchimp.php:21
+#: includes/widgets/victor-portfolio.php:30
+#: includes/widgets/victor-service.php:29
+#: includes/widgets/victor-social.php:21
+#: includes/widgets/victor-staff.php:29
+#: includes/widgets/victor-testimonial.php:28
+#: includes/widgets/victor-text.php:22
+#@ victor-toolkit
+#@ default
+msgid "Title"
+msgstr ""
+
+#: includes/post-types/portfolio.php:118
+#: includes/post-types/services.php:153
+#: includes/post-types/staff.php:149
+#@ victor-toolkit
+msgid "Author"
+msgstr ""
+
+#: includes/post-types/portfolio.php:119
+#@ victor-toolkit
+msgid "Portfolio tags"
+msgstr ""
+
+#: includes/post-types/portfolio.php:120
+#@ victor-toolkit
+msgid "Portfolio categories"
+msgstr ""
+
+#: includes/post-types/portfolio.php:121
+#@ victor-toolkit
+msgid "Comments"
+msgstr ""
+
+#: includes/post-types/portfolio.php:122
+#: includes/post-types/portfolio.php:148
+#: includes/post-types/services.php:157
+#: includes/post-types/staff.php:153
+#: includes/post-types/testimonials.php:136
+#@ victor-toolkit
+#@ gusty-toolkit
+msgid "Date"
+msgstr ""
+
+#: includes/post-types/portfolio.php:141
+#: includes/post-types/services.php:108
+#: includes/post-types/staff.php:106
+#: includes/post-types/testimonials.php:108
+#@ gusty-toolkit
+#@ victor-toolkit
+msgid "Options"
+msgstr ""
+
+#: includes/post-types/portfolio.php:156
+#@ gusty-toolkit
+msgid "Client"
+msgstr ""
+
+#: includes/post-types/services.php:15
+#: includes/post-types/services.php:17
+#@ victor-toolkit
+msgid "Services"
+msgstr ""
+
+#: includes/post-types/services.php:16
+#: includes/widgets/victor-basic-contact-info.php:24
+#: includes/widgets/victor-intro.php:28
+#: includes/widgets/victor-service.php:28
+#@ victor-toolkit
+msgid "Service"
+msgstr ""
+
+#: includes/post-types/services.php:18
+#@ victor-toolkit
+msgid "Add Service"
+msgstr ""
+
+#: includes/post-types/services.php:19
+#@ victor-toolkit
+msgid "Add New Service"
+msgstr ""
+
+#: includes/post-types/services.php:21
+#@ victor-toolkit
+msgid "Edit Service"
+msgstr ""
+
+#: includes/post-types/services.php:22
+#@ victor-toolkit
+msgid "New Service"
+msgstr ""
+
+#: includes/post-types/services.php:23
+#: includes/post-types/services.php:24
+#@ victor-toolkit
+msgid "View Service"
+msgstr ""
+
+#: includes/post-types/services.php:25
+#@ victor-toolkit
+msgid "Search Services"
+msgstr ""
+
+#: includes/post-types/services.php:26
+#@ victor-toolkit
+msgid "No Services Found"
+msgstr ""
+
+#: includes/post-types/services.php:27
+#@ victor-toolkit
+msgid "No Services Found in Trash"
+msgstr ""
+
+#: includes/post-types/services.php:28
+#@ victor-toolkit
+msgid "Parent Service"
+msgstr ""
+
+#: includes/post-types/services.php:50
+#@ victor-toolkit
+msgid "Service Tags"
+msgstr ""
+
+#: includes/post-types/services.php:51
+#@ victor-toolkit
+msgid "Tag"
+msgstr ""
+
+#: includes/post-types/services.php:78
+#: includes/post-types/services.php:79
+#: includes/post-types/services.php:155
+#@ victor-toolkit
+msgid "Service Categories"
+msgstr ""
+
+#: includes/post-types/services.php:115
+#@ victor-toolkit
+msgid "Link to external page"
+msgstr ""
+
+#: includes/post-types/services.php:121
+#@ victor-toolkit
+msgid "Link to static page"
+msgstr ""
+
+#: includes/post-types/services.php:128
+#: includes/post-types/services.php:151
+#@ victor-toolkit
+msgid "Icon"
+msgstr ""
+
+#: includes/post-types/services.php:141
+#@ victor-toolkit
+msgid "---Select---"
+msgstr ""
+
+#: includes/post-types/services.php:154
+#@ victor-toolkit
+msgid "Service Tag"
+msgstr ""
+
+#: includes/post-types/staff.php:15
+#: includes/post-types/staff.php:17
+#@ victor-toolkit
+msgid "Staffs"
+msgstr ""
+
+#: includes/post-types/staff.php:16
+#@ victor-toolkit
+msgid "Staff"
+msgstr ""
+
+#: includes/post-types/staff.php:18
+#@ victor-toolkit
+msgid "Add Staff"
+msgstr ""
+
+#: includes/post-types/staff.php:19
+#@ victor-toolkit
+msgid "Add New Staff"
+msgstr ""
+
+#: includes/post-types/staff.php:21
+#@ victor-toolkit
+msgid "Edit Staff"
+msgstr ""
+
+#: includes/post-types/staff.php:22
+#@ victor-toolkit
+msgid "New Staff"
+msgstr ""
+
+#: includes/post-types/staff.php:23
+#: includes/post-types/staff.php:24
+#@ victor-toolkit
+msgid "View Staff"
+msgstr ""
+
+#: includes/post-types/staff.php:25
+#@ victor-toolkit
+msgid "Search Staffs"
+msgstr ""
+
+#: includes/post-types/staff.php:26
+#@ victor-toolkit
+msgid "No Staffs Found"
+msgstr ""
+
+#: includes/post-types/staff.php:27
+#@ victor-toolkit
+msgid "No Staffs Found in Trash"
+msgstr ""
+
+#: includes/post-types/staff.php:28
+#@ victor-toolkit
+msgid "Parent Staff"
+msgstr ""
+
+#: includes/post-types/staff.php:49
+#: includes/post-types/staff.php:151
+#@ victor-toolkit
+msgid "Staff Tags"
+msgstr ""
+
+#: includes/post-types/staff.php:50
+#@ victor-toolkit
+msgid "Staff Tag"
+msgstr ""
+
+#: includes/post-types/staff.php:76
+#: includes/post-types/staff.php:150
+#@ victor-toolkit
+msgid "Staff Categories"
+msgstr ""
+
+#: includes/post-types/staff.php:77
+#@ victor-toolkit
+msgid "Staff Category"
+msgstr ""
+
+#: includes/post-types/staff.php:112
+#: includes/post-types/testimonials.php:119
+#@ victor-toolkit
+msgid "Position"
+msgstr ""
+
+#: includes/post-types/staff.php:117
+#@ victor-toolkit
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/post-types/staff.php:123
+#@ victor-toolkit
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/post-types/staff.php:129
+#@ victor-toolkit
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/post-types/staff.php:134
+#@ victor-toolkit
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/post-types/staff.php:148
+#@ victor-toolkit
+msgid "Name"
+msgstr ""
+
+#: includes/post-types/testimonials.php:16
+#: includes/post-types/testimonials.php:18
+#: includes/widgets/victor-testimonial.php:27
+#@ victor-toolkit
+msgid "Testimonials"
+msgstr ""
+
+#: includes/post-types/testimonials.php:17
+#@ victor-toolkit
+msgid "Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:19
+#@ victor-toolkit
+msgid "Add Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:20
+#@ victor-toolkit
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:22
+#@ victor-toolkit
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:23
+#@ victor-toolkit
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:24
+#: includes/post-types/testimonials.php:25
+#@ victor-toolkit
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:26
+#@ victor-toolkit
+msgid "Search Testimonials"
+msgstr ""
+
+#: includes/post-types/testimonials.php:27
+#@ victor-toolkit
+msgid "No Testimonials Found"
+msgstr ""
+
+#: includes/post-types/testimonials.php:28
+#@ victor-toolkit
+msgid "No Testimonials Found in Trash"
+msgstr ""
+
+#: includes/post-types/testimonials.php:29
+#@ victor-toolkit
+msgid "Parent Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:50
+#@ victor-toolkit
+msgid "Testimonials Tags"
+msgstr ""
+
+#: includes/post-types/testimonials.php:51
+#@ victor-toolkit
+msgid "Testimonials Tag"
+msgstr ""
+
+#: includes/post-types/testimonials.php:78
+#: includes/post-types/testimonials.php:133
+#@ victor-toolkit
+msgid "Testimonial Categories"
+msgstr ""
+
+#: includes/post-types/testimonials.php:79
+#@ victor-toolkit
+msgid "Testimonials Categories"
+msgstr ""
+
+#: includes/post-types/testimonials.php:114
+#@ victor-toolkit
+msgid "Avatar"
+msgstr ""
+
+#: includes/post-types/testimonials.php:134
+#@ victor-toolkit
+msgid "Testimonial Tags"
+msgstr ""
+
+#: includes/widgets/victor-about.php:16
+#@ victor-toolkit
+msgid "Victorious About Widget"
+msgstr ""
+
+#: includes/widgets/victor-about.php:17
+#@ victor-toolkit
+msgid "Display an article about your company"
+msgstr ""
+
+#: includes/widgets/victor-about.php:26
+#@ victor-toolkit
+msgid "Our Mission"
+msgstr ""
+
+#: includes/widgets/victor-about.php:32
+#@ victor-toolkit
+msgid "Select Post"
+msgstr ""
+
+#: includes/widgets/victor-basic-contact-info.php:15
+#@ victor-toolkit
+msgid "Victorious Basic Contact Info"
+msgstr ""
+
+#: includes/widgets/victor-basic-contact-info.php:16
+#@ victor-toolkit
+msgid "Display your basic contact information"
+msgstr ""
+
+#: includes/widgets/victor-basic-contact-info.php:20
+#: includes/widgets/victor-contact-info.php:91
+#@ victor-toolkit
+msgid "Address"
+msgstr ""
+
+#: includes/widgets/victor-basic-contact-info.php:28
+#: includes/widgets/victor-contact-form.php:54
+#: includes/widgets/victor-contact-form.php:56
+#@ victor-toolkit
+msgid "Phone Number"
+msgstr ""
+
+#: includes/widgets/victor-basic-contact-info.php:32
+#: includes/widgets/victor-contact-info.php:70
+#@ victor-toolkit
+msgid "Email"
+msgstr ""
+
+#: includes/page-builder.php:326
+#: includes/widgets/victor-basic-contact-info.php:38
+#: includes/widgets/victor-entry-list.php:27
+#: includes/widgets/victor-portfolio.php:81
+#: includes/widgets/victor-social.php:55
+#: includes/widgets/victor-staff.php:86
+#@ victor-toolkit
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/victor-basic-contact-info.php:40
+#: includes/widgets/victor-entry-list.php:29
+#: includes/widgets/victor-social.php:57
+#: includes/widgets/victor-staff.php:88
+#@ victor-toolkit
+msgid "Style 1"
+msgstr ""
+
+#: includes/widgets/victor-basic-contact-info.php:41
+#: includes/widgets/victor-entry-list.php:30
+#: includes/widgets/victor-social.php:58
+#: includes/widgets/victor-staff.php:89
+#@ victor-toolkit
+msgid "Style 2"
+msgstr ""
+
+#: includes/widgets/victor-contact-form.php:16
+#@ victor-toolkit
+msgid "Victorious Contact Form"
+msgstr ""
+
+#: includes/widgets/victor-contact-form.php:17
+#@ victor-toolkit
+msgid "Display contact form"
+msgstr ""
+
+#: includes/page-builder.php:190
+#: includes/widgets/victor-contact-form.php:21
+#: includes/widgets/victor-contact-info.php:21
+#@ victor-toolkit
+msgid "Contact"
+msgstr ""
+
+#: includes/widgets/victor-contact-form.php:27
+#: includes/widgets/victor-contact-info.php:27
+#: includes/widgets/victor-testimonial.php:33
+#: includes/widgets/victor-text.php:27
+#@ victor-toolkit
+msgid "Description"
+msgstr ""
+
+#: includes/widgets/victor-contact-form.php:31
+#@ victor-toolkit
+msgid "Send Messenge"
+msgstr ""
+
+#: includes/widgets/victor-contact-form.php:32
+#@ victor-toolkit
+msgid "Button Text"
+msgstr ""
+
+#: includes/widgets/victor-contact-form.php:46
+#: includes/widgets/victor-contact-form.php:48
+#@ victor-toolkit
+msgid "Name (required)"
+msgstr ""
+
+#: includes/widgets/victor-contact-form.php:64
+#: includes/widgets/victor-contact-form.php:66
+#@ victor-toolkit
+msgid "Email (required)"
+msgstr ""
+
+#: includes/widgets/victor-contact-form.php:72
+#: includes/widgets/victor-contact-form.php:74
+#@ victor-toolkit
+msgid "Website"
+msgstr ""
+
+#: includes/widgets/victor-contact-form.php:80
+#@ victor-toolkit
+msgid "Your comment (required)"
+msgstr ""
+
+#: includes/widgets/victor-contact-info.php:16
+#@ victor-toolkit
+msgid "Victorious Contact Info"
+msgstr ""
+
+#: includes/widgets/victor-contact-info.php:17
+#@ victor-toolkit
+msgid "Display your contact infomartion"
+msgstr ""
+
+#: includes/widgets/victor-contact-info.php:32
+#@ victor-toolkit
+msgid "Contact Phone"
+msgstr ""
+
+#: includes/widgets/victor-contact-info.php:37
+#@ victor-toolkit
+msgid "Contact Fax"
+msgstr ""
+
+#: includes/widgets/victor-contact-info.php:42
+#@ victor-toolkit
+msgid "Contact Email"
+msgstr ""
+
+#: includes/widgets/victor-contact-info.php:47
+#@ victor-toolkit
+msgid "Contact Address"
+msgstr ""
+
+#: includes/widgets/victor-contact-info.php:77
+#@ victor-toolkit
+msgid "Phone"
+msgstr ""
+
+#: includes/widgets/victor-contact-info.php:84
+#@ victor-toolkit
+msgid "Fax"
+msgstr ""
+
+#: includes/widgets/victor-entry-list.php:15
+#@ victor-toolkit
+msgid "Victorious Entry List"
+msgstr ""
+
+#: includes/widgets/victor-entry-list.php:16
+#@ victor-toolkit
+msgid "Display your article list"
+msgstr ""
+
+#: includes/widgets/victor-entry-list.php:21
+#: includes/widgets/victor-intro.php:74
+#: includes/widgets/victor-service.php:85
+#: includes/widgets/victor-staff.php:80
+#: includes/widgets/victor-tab-container.php:23
+#: includes/widgets/victor-testimonial.php:84
+#@ victor-toolkit
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/widgets/victor-feedburner.php:15
+#@ victor-toolkit
+msgid "Victorious Feedburner Subscribe"
+msgstr ""
+
+#: includes/widgets/victor-feedburner.php:16
+#@ victor-toolkit
+msgid "Display Feedburner subscription form"
+msgstr ""
+
+#: includes/widgets/victor-feedburner.php:20
+#: includes/widgets/victor-mailchimp.php:20
+#@ victor-toolkit
+msgid "NEWSLETTER"
+msgstr ""
+
+#: includes/widgets/victor-feedburner.php:30
+#: includes/widgets/victor-mailchimp.php:35
+#@ victor-toolkit
+msgid "Enter your email"
+msgstr ""
+
+#: includes/widgets/victor-feedburner.php:31
+#: includes/widgets/victor-mailchimp.php:36
+#@ victor-toolkit
+msgid "Email field placeholder"
+msgstr ""
+
+#: includes/widgets/victor-feedburner.php:35
+#: includes/widgets/victor-mailchimp.php:40
+#@ victor-toolkit
+msgid "Subscribe"
+msgstr ""
+
+#: includes/widgets/victor-feedburner.php:36
+#: includes/widgets/victor-mailchimp.php:41
+#@ victor-toolkit
+msgid "Submit button text"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:20
+#@ victor-toolkit
+msgid "Display your intro with featured posts"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:79
+#@ victor-toolkit
+msgid "<p class=\"description\">PROVIDING FIRST CLASS<br><span>FREIGHT SERVICES</span><span class=\"left-icon\"></span><span class=\"right-icon\"></span></p>"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:80
+#@ victor-toolkit
+msgid "Description (Only for Style 3 posts)"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:85
+#@ victor-toolkit
+msgid "Link to (Only for Style 3 posts)"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:89
+#@ victor-toolkit
+msgid "Learn More"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:90
+#@ victor-toolkit
+msgid "Text Link (Only for Style 3 posts)"
+msgstr ""
+
+#: includes/widgets/victor-mailchimp.php:15
+#@ victor-toolkit
+msgid "Victorious Mailchimp Subscribe"
+msgstr ""
+
+#: includes/widgets/victor-mailchimp.php:16
+#@ victor-toolkit
+msgid "Display mailchimp newsletter subscription form"
+msgstr ""
+
+#: includes/widgets/victor-mailchimp.php:26
+#@ victor-toolkit
+msgid "Mailchimp Form Action"
+msgstr ""
+
+#: includes/widgets/victor-mailchimp.php:31
+#@ victor-toolkit
+msgid "Enable evil popup mode"
+msgstr ""
+
+#: includes/widgets/victor-portfolio.php:20
+#@ victor-toolkit
+msgid "Victorious Portfolio Widget"
+msgstr ""
+
+#: includes/widgets/victor-portfolio.php:21
+#@ victor-toolkit
+msgid "Display a list of portfolio"
+msgstr ""
+
+#: includes/widgets/victor-portfolio.php:29
+#@ victor-toolkit
+msgid "Our Projects"
+msgstr ""
+
+#: includes/widgets/victor-portfolio.php:35
+#@ victor-toolkit
+msgid "Select Project categories"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:40
+#: includes/widgets/victor-portfolio.php:41
+#: includes/widgets/victor-service.php:40
+#: includes/widgets/victor-staff.php:40
+#: includes/widgets/victor-testimonial.php:44
+#@ victor-toolkit
+msgid "Relation"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:42
+#: includes/widgets/victor-portfolio.php:43
+#: includes/widgets/victor-service.php:42
+#: includes/widgets/victor-staff.php:42
+#: includes/widgets/victor-testimonial.php:46
+#@ victor-toolkit
+msgid "OR"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:43
+#: includes/widgets/victor-portfolio.php:44
+#: includes/widgets/victor-service.php:43
+#: includes/widgets/victor-staff.php:43
+#: includes/widgets/victor-testimonial.php:47
+#@ victor-toolkit
+msgid "AND"
+msgstr ""
+
+#: includes/widgets/victor-portfolio.php:50
+#@ victor-toolkit
+msgid "Select Portfolio tags"
+msgstr ""
+
+#: includes/widgets/victor-portfolio.php:56
+#: includes/widgets/victor-service.php:55
+#: includes/widgets/victor-staff.php:55
+#: includes/widgets/victor-testimonial.php:59
+#@ victor-toolkit
+msgid "Posts per page"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:55
+#: includes/widgets/victor-portfolio.php:62
+#: includes/widgets/victor-service.php:61
+#: includes/widgets/victor-staff.php:61
+#: includes/widgets/victor-testimonial.php:65
+#@ victor-toolkit
+msgid "Order by"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:57
+#: includes/widgets/victor-portfolio.php:64
+#: includes/widgets/victor-service.php:63
+#: includes/widgets/victor-staff.php:63
+#: includes/widgets/victor-testimonial.php:67
+#@ victor-toolkit
+msgid "Latest"
+msgstr ""
+
+#: includes/widgets/victor-portfolio.php:65
+#@ victor-toolkit
+msgid "Popular by Comment Count"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:59
+#: includes/widgets/victor-portfolio.php:66
+#: includes/widgets/victor-service.php:65
+#: includes/widgets/victor-staff.php:65
+#: includes/widgets/victor-testimonial.php:69
+#@ victor-toolkit
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:65
+#: includes/widgets/victor-portfolio.php:72
+#: includes/widgets/victor-service.php:71
+#: includes/widgets/victor-staff.php:71
+#: includes/widgets/victor-testimonial.php:75
+#@ victor-toolkit
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:67
+#: includes/widgets/victor-portfolio.php:74
+#: includes/widgets/victor-service.php:73
+#: includes/widgets/victor-staff.php:73
+#: includes/widgets/victor-testimonial.php:77
+#@ victor-toolkit
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:68
+#: includes/widgets/victor-portfolio.php:75
+#: includes/widgets/victor-service.php:74
+#: includes/widgets/victor-staff.php:74
+#: includes/widgets/victor-testimonial.php:78
+#@ victor-toolkit
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/victor-portfolio.php:84
+#@ victor-toolkit
+msgid "Yellow Background"
+msgstr ""
+
+#: includes/widgets/victor-portfolio.php:148
+#@ victor-toolkit
+msgid ", "
+msgstr ""
+
+#: includes/widgets/victor-service.php:19
+#@ victor-toolkit
+msgid "Victorious Service Widget"
+msgstr ""
+
+#: includes/widgets/victor-service.php:20
+#@ victor-toolkit
+msgid "Display a list of service"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:34
+#: includes/widgets/victor-service.php:34
+#@ victor-toolkit
+msgid "Select Service Categories"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:49
+#: includes/widgets/victor-service.php:49
+#@ victor-toolkit
+msgid "Select service tags"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:58
+#: includes/widgets/victor-service.php:64
+#: includes/widgets/victor-staff.php:64
+#: includes/widgets/victor-testimonial.php:68
+#@ victor-toolkit
+msgid "Popular"
+msgstr ""
+
+#: includes/widgets/victor-service.php:79
+#@ victor-toolkit
+msgid "Read more"
+msgstr ""
+
+#: includes/widgets/victor-service.php:80
+#@ victor-toolkit
+msgid "Read more text"
+msgstr ""
+
+#: includes/widgets/victor-social.php:15
+#@ victor-toolkit
+msgid "Victorious Social Widget"
+msgstr ""
+
+#: includes/widgets/victor-social.php:16
+#@ victor-toolkit
+msgid "Display your social links"
+msgstr ""
+
+#: includes/widgets/victor-social.php:20
+#@ victor-toolkit
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/widgets/victor-social.php:25
+#@ victor-toolkit
+msgid "Facebook link"
+msgstr ""
+
+#: includes/widgets/victor-social.php:29
+#@ victor-toolkit
+msgid "Twitter link"
+msgstr ""
+
+#: includes/widgets/victor-social.php:33
+#@ victor-toolkit
+msgid "Google Plus link"
+msgstr ""
+
+#: includes/widgets/victor-social.php:37
+#@ victor-toolkit
+msgid "Linkedin link"
+msgstr ""
+
+#: includes/widgets/victor-social.php:41
+#@ victor-toolkit
+msgid "Instagram link"
+msgstr ""
+
+#: includes/widgets/victor-social.php:45
+#@ victor-toolkit
+msgid "Behance link"
+msgstr ""
+
+#: includes/widgets/victor-social.php:49
+#@ victor-toolkit
+msgid "RSS link (Enter \"HIDE\" to hide rss)"
+msgstr ""
+
+#: includes/widgets/victor-staff.php:20
+#@ victor-toolkit
+msgid "Victorious Staff Widget"
+msgstr ""
+
+#: includes/widgets/victor-staff.php:21
+#@ victor-toolkit
+msgid "Display a list of staff"
+msgstr ""
+
+#: includes/widgets/victor-staff.php:28
+#@ victor-toolkit
+msgid "We are team"
+msgstr ""
+
+#: includes/widgets/victor-staff.php:34
+#@ victor-toolkit
+msgid "Select Staff Categories"
+msgstr ""
+
+#: includes/widgets/victor-staff.php:49
+#@ victor-toolkit
+msgid "Select Staff Tags"
+msgstr ""
+
+#: includes/widgets/victor-tab-container.php:15
+#@ victor-toolkit
+msgid "Victorious Tab Container"
+msgstr ""
+
+#: includes/widgets/victor-tab-container.php:16
+#@ victor-toolkit
+msgid "Display article list widget by categories with tab"
+msgstr ""
+
+#: includes/widgets/victor-testimonial.php:19
+#@ victor-toolkit
+msgid "Victorious Testimonial Widget"
+msgstr ""
+
+#: includes/widgets/victor-testimonial.php:20
+#@ victor-toolkit
+msgid "Display a list of testimonial"
+msgstr ""
+
+#: includes/widgets/victor-testimonial.php:38
+#@ victor-toolkit
+msgid "Select Testimonial Categories"
+msgstr ""
+
+#: includes/widgets/victor-testimonial.php:53
+#@ victor-toolkit
+msgid "Select Testimonial Tags"
+msgstr ""
+
+#: includes/widgets/victor-testimonial.php:90
+#@ victor-toolkit
+msgid "Slide Speed (ms)"
+msgstr ""
+
+#: includes/widgets/victor-testimonial.php:96
+#@ victor-toolkit
+msgid "Items per page"
+msgstr ""
+
+#: includes/widgets/victor-testimonial.php:98
+#@ victor-toolkit
+msgid "1"
+msgstr ""
+
+#: includes/widgets/victor-testimonial.php:99
+#@ victor-toolkit
+msgid "2"
+msgstr ""
+
+#: includes/widgets/victor-testimonial.php:100
+#@ victor-toolkit
+msgid "3"
+msgstr ""
+
+#: includes/widgets/victor-text.php:16
+#@ victor-toolkit
+msgid "Victorious Text Widget"
+msgstr ""
+
+#: includes/widgets/victor-text.php:17
+#@ victor-toolkit
+msgid "Arbitrary text or HTML with button"
+msgstr ""
+
+#: includes/widgets/victor-text.php:21
+#@ victor-toolkit
+msgid "Welcome to Victorious"
+msgstr ""
+
+#: victorious-toolkit.php:153
+#@ victor-toolkit
+msgid "Icon Picker"
+msgstr ""
+
+#: victorious-toolkit.php:154
+#@ victor-toolkit
+msgid "Shortcodes"
+msgstr ""
+
+#: victorious-toolkit.php:155
+#@ victor-toolkit
+msgid "Caption"
+msgstr ""
+
+#: victorious-toolkit.php:156
+#@ victor-toolkit
+msgid "Grid"
+msgstr ""
+
+#: victorious-toolkit.php:157
+#@ victor-toolkit
+msgid "Container"
+msgstr ""
+
+#: victorious-toolkit.php:158
+#@ victor-toolkit
+msgid "Tabs"
+msgstr ""
+
+#: victorious-toolkit.php:159
+#@ victor-toolkit
+msgid "Tabs (large)"
+msgstr ""
+
+#: victorious-toolkit.php:160
+#@ victor-toolkit
+msgid "Tabs (vertical)"
+msgstr ""
+
+#: victorious-toolkit.php:161
+#@ victor-toolkit
+msgid "Accordion"
+msgstr ""
+
+#: victorious-toolkit.php:162
+#@ victor-toolkit
+msgid "Toggle"
+msgstr ""
+
+#: victorious-toolkit.php:163
+#@ victor-toolkit
+msgid "Dropcap"
+msgstr ""
+
+#: victorious-toolkit.php:164
+#@ victor-toolkit
+msgid "Color"
+msgstr ""
+
+#: victorious-toolkit.php:165
+#@ victor-toolkit
+msgid "Gray"
+msgstr ""
+
+#: victorious-toolkit.php:166
+#@ victor-toolkit
+msgid "Transparent"
+msgstr ""
+
+#: victorious-toolkit.php:167
+#@ victor-toolkit
+msgid "Alert box"
+msgstr ""
+
+#: victorious-toolkit.php:168
+#@ victor-toolkit
+msgid "Info"
+msgstr ""
+
+#: victorious-toolkit.php:169
+#@ victor-toolkit
+msgid "Success"
+msgstr ""
+
+#: victorious-toolkit.php:170
+#@ victor-toolkit
+msgid "Warning"
+msgstr ""
+
+#: victorious-toolkit.php:171
+#@ victor-toolkit
+msgid "Danger"
+msgstr ""
+
+#: victorious-toolkit.php:172
+#@ victor-toolkit
+msgid "Button"
+msgstr ""
+
+#: victorious-toolkit.php:173
+#@ victor-toolkit
+msgid "Fill"
+msgstr ""
+
+#: victorious-toolkit.php:174
+#@ victor-toolkit
+msgid "Solid"
+msgstr ""
+
+#: victorious-toolkit.php:175
+#@ victor-toolkit
+msgid "Small"
+msgstr ""
+
+#: victorious-toolkit.php:176
+#@ victor-toolkit
+msgid "Medium"
+msgstr ""
+
+#: victorious-toolkit.php:177
+#@ victor-toolkit
+msgid "Large"
+msgstr ""
+
+#: victorious-toolkit.php:178
+#@ victor-toolkit
+msgid "Blockquote"
+msgstr ""
+
+#: victorious-toolkit.php:179
+#@ victor-toolkit
+msgid "Default"
+msgstr ""
+
+#: victorious-toolkit.php:180
+#@ victor-toolkit
+msgid "Without border"
+msgstr ""
+
+#: victorious-toolkit.php:181
+#@ victor-toolkit
+msgid "Pricing Table"
+msgstr ""
+
+#: victorious-toolkit.php:182
+#@ victor-toolkit
+msgid "Special"
+msgstr ""
+
+#: includes/layout/portfolio.php:7
+#@ victor-toolkit
+msgid "Widget Area 5"
+msgstr ""
+
+#: includes/layout/portfolio.php:8
+#@ victor-toolkit
+msgid "Widget Area 6"
+msgstr ""
+
+#: includes/layout/portfolio.php:9
+#@ victor-toolkit
+msgid "Widget Area 7"
+msgstr ""
+
+#: includes/layout/portfolio.php:10
+#@ victor-toolkit
+msgid "Widget Area 8"
+msgstr ""
+
+#: includes/layout/portfolio.php:11
+#@ victor-toolkit
+msgid "Widget Area 9"
+msgstr ""
+
+#: includes/layout/portfolio.php:34
+#@ victor-toolkit
+msgid "Portfolio layout"
+msgstr ""
+
+#: includes/widgets/victor-feedburner.php:26
+#@ victor-toolkit
+msgid "Feedburner Link (http://feeds.feedburner.com/wordpress)"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:19
+#@ victor-toolkit
+msgid "Victorious Intro Widget 1"
+msgstr ""
+
+#: includes/widgets/victor-intro.php:170
+#@ victor-toolkit
+msgid "learn more"
+msgstr ""
+
+#: includes/widgets/victor-portfolio.php:83
+#@ victor-toolkit
+msgid "None Background"
+msgstr ""
+
+#: includes/widgets/victor-languages.php:17
+#@ victor-toolkit
+msgid "Victorious Languages Switcher"
+msgstr ""
+
+#: includes/widgets/victor-languages.php:18
+#@ victor-toolkit
+msgid "Displays a language switcher "
+msgstr ""
+
+#: includes/widgets/victor-languages.php:22
+#@ victor-toolkit
+msgid "Select Language"
+msgstr ""
+
+#: includes/page-builder.php:46
+#@ victor-toolkit
+msgid "---Disable---"
+msgstr ""
+
+#: includes/page-builder.php:49
+#@ victor-toolkit
+msgid "Home 1"
+msgstr ""
+
+#: includes/page-builder.php:53
+#: includes/page-builder.php:128
+#: includes/page-builder.php:194
+#@ victor-toolkit
+msgid "Custom"
+msgstr ""
+
+#: includes/page-builder.php:57
+#: includes/page-builder.php:132
+#: includes/page-builder.php:198
+#@ victor-toolkit
+msgid "CSS Code"
+msgstr ""
+
+#: includes/page-builder.php:65
+#: includes/page-builder.php:140
+#: includes/page-builder.php:206
+#@ victor-toolkit
+msgid "Javascript"
+msgstr ""
+
+#: includes/page-builder.php:69
+#: includes/page-builder.php:144
+#: includes/page-builder.php:210
+#@ victor-toolkit
+msgid "Load Google-Maps API"
+msgstr ""
+
+#: includes/page-builder.php:77
+#: includes/page-builder.php:152
+#@ victor-toolkit
+msgid "Row 1"
+msgstr ""
+
+#: includes/page-builder.php:86
+#: includes/page-builder.php:161
+#: includes/page-builder.php:218
+#@ victor-toolkit
+msgid "Row 2"
+msgstr ""
+
+#: includes/page-builder.php:95
+#: includes/page-builder.php:170
+#@ victor-toolkit
+msgid "Row 3"
+msgstr ""
+
+#: includes/page-builder.php:104
+#: includes/page-builder.php:179
+#@ victor-toolkit
+msgid "Row 4"
+msgstr ""
+
+#: includes/page-builder.php:113
+#@ victor-toolkit
+msgid "Row 7"
+msgstr ""
+
+#: includes/page-builder.php:124
+#@ victor-toolkit
+msgid "About"
+msgstr ""
+
+#: includes/page-builder.php:233
+#@ victor-toolkit
+msgid "Area 1"
+msgstr ""
+
+#: includes/page-builder.php:234
+#@ victor-toolkit
+msgid "Area 1.1"
+msgstr ""
+
+#: includes/page-builder.php:235
+#@ victor-toolkit
+msgid "Area 1.2"
+msgstr ""
+
+#: includes/page-builder.php:236
+#@ victor-toolkit
+msgid "Area 1.3"
+msgstr ""
+
+#: includes/page-builder.php:237
+#: includes/page-builder.php:238
+#: includes/page-builder.php:239
+#@ victor-toolkit
+msgid "Area 2"
+msgstr ""
+
+#: includes/page-builder.php:240
+#@ victor-toolkit
+msgid "Area 3"
+msgstr ""
+
+#: includes/page-builder.php:241
+#@ victor-toolkit
+msgid "Area 3.1"
+msgstr ""
+
+#: includes/page-builder.php:242
+#@ victor-toolkit
+msgid "Area 3.2"
+msgstr ""
+
+#: includes/page-builder.php:243
+#@ victor-toolkit
+msgid "Area 4"
+msgstr ""
+
+#: includes/page-builder.php:244
+#@ victor-toolkit
+msgid "Area 5"
+msgstr ""
+
+#: includes/page-builder.php:245
+#@ victor-toolkit
+msgid "Area 6"
+msgstr ""
+
+#: includes/page-builder.php:246
+#@ victor-toolkit
+msgid "Area 7"
+msgstr ""
+
+#: includes/page-builder.php:247
+#@ victor-toolkit
+msgid "Area 8"
+msgstr ""
+
+#: includes/page-builder.php:248
+#@ victor-toolkit
+msgid "Area 9.1"
+msgstr ""
+
+#: includes/page-builder.php:249
+#@ victor-toolkit
+msgid "Area 9.2"
+msgstr ""
+
+#: includes/page-builder.php:323
+#@ victor-toolkit
+msgid "Title Effect"
+msgstr ""
+
+#: includes/page-builder.php:330
+#@ victor-toolkit
+msgid "H5 tag normal"
+msgstr ""
+
+#: includes/page-builder.php:331
+#@ victor-toolkit
+msgid "H3 tag normal"
+msgstr ""
+
+#: includes/page-builder.php:332
+#@ victor-toolkit
+msgid "H2 tag normal"
+msgstr ""
+
+#: includes/page-builder.php:333
+#@ victor-toolkit
+msgid "H2 tag style 1"
+msgstr ""
+
+#: includes/page-builder.php:334
+#@ victor-toolkit
+msgid "H2 tag style 2"
+msgstr ""
+
+#: includes/page-builder.php:335
+#@ victor-toolkit
+msgid "H2 tag style 3"
+msgstr ""
+
+#: includes/page-builder.php:336
+#@ victor-toolkit
+msgid "H2 tag style 4"
+msgstr ""
+
+#: includes/page-builder.php:337
+#@ victor-toolkit
+msgid "H2 tag style 5"
+msgstr ""
+
+#: includes/page-builder.php:338
+#@ victor-toolkit
+msgid "H2 tag style 6"
+msgstr ""
+
+#: includes/page-builder.php:339
+#@ victor-toolkit
+msgid "H2 tag style 7"
+msgstr ""
+
+#: includes/page-builder.php:343
+#@ gusty
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/page-builder.php:347
+#@ gusty
+msgid "CSS code"
+msgstr ""
+
+#: includes/page-builder.php:351
+#@ gusty
+msgid "Example: <code>ID a {color: red; }</code> <br/> ID: The ID of this widget."
+msgstr ""
+
+#: includes/page-builder.php:359
+#@ victor-toolkit
+msgid "Background"
+msgstr ""
+
+#: includes/page-builder.php:363
+#@ victor-toolkit
+msgid "Use Default Background"
+msgstr ""
+
+#: includes/page-builder.php:366
+#@ victor-toolkit
+msgid "Yes"
+msgstr ""
+
+#: includes/page-builder.php:367
+#@ victor-toolkit
+msgid "No"
+msgstr ""
+
+#: includes/page-builder.php:372
+#@ victor-toolkit
+msgid "Background image"
+msgstr ""
+
+#: includes/widgets/victor-service-stat.php:20
+#@ victor-toolkit
+msgid "Victorious Service Statistics"
+msgstr ""
+
+#: includes/widgets/victor-service-stat.php:21
+#@ victor-toolkit
+msgid "Display statistics about service"
+msgstr ""
+
+#: includes/widgets/victor-service-stat.php:27
+#@ victor-toolkit
+msgid "Office World Wide"
+msgstr ""
+
+#: includes/widgets/victor-service-stat.php:33
+#: includes/widgets/victor-service-stat.php:70
+#@ victor-toolkit
+msgid "Employees"
+msgstr ""
+
+#: includes/widgets/victor-service-stat.php:39
+#@ victor-toolkit
+msgid "Tons of air freight every year"
+msgstr ""
+
+#: includes/widgets/victor-service-stat.php:59
+#@ victor-toolkit
+msgid "OFFICES WORLD WIDE"
+msgstr ""
+
+#: includes/widgets/victor-service-stat.php:81
+#@ victor-toolkit
+msgid "TONS OF AIR FREIGHT EVERY YEAR"
+msgstr ""
+
